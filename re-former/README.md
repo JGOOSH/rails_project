@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is meant to practice basic forms in ruby on rails.
+I will build some forms, both using nearly-pure HTML and then graduating to using
+the helper methods that Rails provides.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This will cover:
+* Integrating a signup form with Rails application
+* providing help if the user enters incorrect information
